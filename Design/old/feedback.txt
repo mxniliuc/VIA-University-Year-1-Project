@@ -1,0 +1,6 @@
+-Maybe split Model in two
+-Combine classes, for example Date class
+-Remove Information in the domain model, if it's still there (update it!)
+-Make equals method in the Status class
+-task.status = task.status.approved (optional field in sequence diagram)
+-multiple team meambers are able to work on the same task - TeamMemberList should be connected to Tasks and Requirements (ask Steffen)
